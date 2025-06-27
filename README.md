@@ -15,7 +15,8 @@ Amazon (AMZN)
 
 Run the notebook in Jupyter or VS Code to explore the data.
 
-Note on Graph Output
+Note on Graph Output:
+
 To ensure the graphs render correctly in the uploaded .ipynb on GitHub, this notebook uses Matplotlib instead of Plotly.
 This change was made because:
 Plotly requires the Kaleido engine for exporting static images, which can cause errors if not installed.
